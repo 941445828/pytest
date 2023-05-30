@@ -1,0 +1,2 @@
+2022-08-09 16:11:57,507 - getTS.py[line:30] - INFO: 移动文件夹cmd：move D:\lang\lang\lan\* D:\lan_old
+2022-08-09 16:11:57,531 - getTS.py[line:33] - INFO: 删除多余文件：rd /s /q  D:\lang

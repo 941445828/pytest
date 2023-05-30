@@ -1,0 +1,13 @@
+ele_name_云盘: 空间
+
+
+ele_XPath_新建: "//div[@class='eeo-client-btn primary mr-2']"
+ele_XPaths_文件夹: "//div[contains(text(), '文件夹')]"
+ele_XPaths_输入文件夹名称: "//input[@type='text']"
+ele_XPaths_确认: "//i[@class='success eeo-icon-circle-check']"
+
+
+folder_name: PCUI-createFolder_
+local_file:
+  - jpg.jpg
+  - bmp.bmp

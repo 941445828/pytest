@@ -1,0 +1,15 @@
+classroom_browser_url:
+- https://www.eeo.cn
+- eeo.cn
+- https://www.classin.com/en/
+- classin.com
+content_classname: create a class
+ele_classname_search: EeoSearchLineEdit
+folder_name: 课件
+online_chat_content:
+- 5. 安全性检查：输入特殊字符串 （null,NULL,输入脚本函数(<script>alert("abc")</script>)
+- 4. 多行文本框输入：允许回车换行、保存后再显示能够保存输入的格式、仅输入回车换行，检查能否正确保存（若能，检查保存结果，若不能，查看是否有正常提示）、
+- 3. 空格检查：输入的字符间有空格、字符前有空格、字符后有空格、字符前后有空格 前后的空格要去掉，中间空格保留
+- 2. 长度检查：最小长度、最大长度、最小长度-1、最大长度+1、输入超工字符比如把整个文章拷贝过去。 短文本（含标题） 50 中等长度 200 长文本 500
+- 1. 字符型输入框：数字、空 特殊字符“ ' * % ? 特别要注意单引号和&符号。
+online_course_name: create online course_

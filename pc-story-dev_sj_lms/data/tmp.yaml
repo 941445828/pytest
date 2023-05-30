@@ -1,0 +1,6 @@
+file_kind:
+- pptx
+- mp3
+- mp4
+smoke_file_kind:
+- csv

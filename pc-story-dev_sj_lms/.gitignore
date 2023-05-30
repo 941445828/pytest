@@ -1,0 +1,14 @@
+.idea/
+/testreport/
+/allure-report/
+*__pycache__
+.DS_Store
+.pytest_cache/
+venv/
+*/testreport/
+/testlog/
+/version/v5000/run/allure-report/
+/csv/
+/chart/
+/folder/
+/file/
